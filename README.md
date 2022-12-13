@@ -9,12 +9,12 @@ Using Auto ML (Automated Machine Learning), we can automate all or some of these
 We need to divide the data into train test and give it to the frameworks 
 We can give time boundation while running.
 We will be covering the following frameworks:
-•	Google Auto ML
-•	H2O Auto ML
-•	Auto ViML
-•	TPOT
-•	MLBox
-•	AutoGluon
-•	MLJAR
-•	Auto Sklearn
-•	Auto Keras
+- H2O Auto ML
+- Auto ViML
+- TPOT
+- MLBox
+- AutoGluon
+- MLJAR
+- Auto Sklearn
+- Auto Keras
+- Ludwig
